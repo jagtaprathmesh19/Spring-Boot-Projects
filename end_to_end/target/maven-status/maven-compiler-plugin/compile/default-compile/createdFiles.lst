@@ -1,0 +1,8 @@
+com\proejct\end_to_end\EndToEndApplication.class
+com\proejct\end_to_end\repository\RoleRepository.class
+com\proejct\end_to_end\controller\UserController.class
+com\proejct\end_to_end\config\UserConfig.class
+com\proejct\end_to_end\models\Role.class
+com\proejct\end_to_end\models\User.class
+com\proejct\end_to_end\repository\UserRepository.class
+com\proejct\end_to_end\services\UserService.class
